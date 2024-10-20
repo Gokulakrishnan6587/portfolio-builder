@@ -3,7 +3,7 @@ import { ArrowDownIcon } from "@radix-ui/react-icons";
 
 export default function Home() {
   return (
-    <section className="mt-20">
+    <section className="mt-16">
       <div className="flex flex-col items-center justify-center min-h-screen px-4 lg:px-10 ">
         {/* Welcome to Home */}
         <h1 className="head1 m-3 mt-2 lg:mt-6 ">
